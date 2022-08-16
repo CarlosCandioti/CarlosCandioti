@@ -4,7 +4,13 @@
 
 
 
-
+- # Here a list of the current technology that i know
+  ### - Javascript
+  ### - React
+  ### - Redux
+  ### - Node.js
+  ### - SQL
+  ### - Sequelize
 
 
 
@@ -14,7 +20,7 @@
 
 - ## 📫 How to reach me: carlos.candioti@gmail.com.
 
-- ### My LinkedIn: https://www.linkedin.com/in/carlos-candioti-developer/
+- ## My LinkedIn: https://www.linkedin.com/in/carlos-candioti-developer/
 
 
 

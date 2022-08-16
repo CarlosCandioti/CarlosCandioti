@@ -2,7 +2,7 @@
 
   # Full Stack Developer from Santa Fe, Argentina
 
-
+![Alt](https://github.com/CarlosCandioti/CarlosCandioti/blob/main/Img/freelance-work.png)
 
 - # Here a list of the current technology that i know
   ### - Javascript
